@@ -88,3 +88,12 @@ MyDrive/Enterprise_DW_Project/
 ```
 
 Upload the two files from this submission into that folder. Keep existing ETL notebooks, raw snapshots, and warehouse scripts in their original Drive locations; this README gives the run sequence without inventing their filenames.
+
+# Automatic refresh Powerbi
+
+<img width="623" height="344" alt="Screenshot 2026-11-24 105159" src="https://github.com/user-attachments/assets/54100266-5692-4440-8113-1d6c8481340a" />
+<img width="621" height="333" alt="Screenshot 2026-11-24 105151" src="https://github.com/user-attachments/assets/684e6ac5-0e01-4e37-8f2a-b0e89fb3f149" />
+<img width="622" height="332" alt="Screenshot 2026-11-24 105144" src="https://github.com/user-attachments/assets/15f61d7c-7f39-4094-8084-230b57a25555" />
+<img width="616" height="340" alt="Screenshot 2026-11-24 105134" src="https://github.com/user-attachments/assets/095ee132-2060-4c02-a365-4bc87fe82707" />
+<img width="611" height="331" alt="Screenshot 2026-11-24 105124" src="https://github.com/user-attachments/assets/649e118b-31cd-4fa0-9050-be12db2779ef" />
+
